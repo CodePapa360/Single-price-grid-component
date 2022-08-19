@@ -23,10 +23,10 @@ Users should be able to:
 
 ### Links
 
-- [👉 Click here to see Live preview👈]()
+- [👉 Click here to see Live preview👈](https://codepapa360.github.io/Single-price-grid-component/)
 <br>
 
-- [👉 Frontendmentor solution👈]()
+- [👉 Frontendmentor solution👈](https://www.frontendmentor.io/solutions/single-price-grid-component-responsive-9NNDTKxzmh)
 
 ## My process
 
