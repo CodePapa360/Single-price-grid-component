@@ -182,6 +182,7 @@ button:hover {
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
     border-bottom: 2px dotted var(--clr-Cyan);
+    text-decoration: none;
     font-size: calc(var(--fs-attb) + 4px);
 }
 
